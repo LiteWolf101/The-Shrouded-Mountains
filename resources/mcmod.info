@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "the_shrouded_mountains",
+    "name": "The Shrouded Mountains",
+    "description": "Enter Text Here",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "LiteWolf101"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
